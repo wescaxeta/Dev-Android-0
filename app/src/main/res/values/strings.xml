@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AtividadeBanco1</string>
+
+    <string name="pensamentos_label">Pensamentos do Dia</string>
+    <string name="criar_pensamento_label">Criar Pensamento</string>
+    <string name="hint_nome">Nome...</string>
+    <string name="hint_pensamento">Pensamento...</string>
+    <string name="button_save">Salvar</string>
+    <string name="button_edit">Editar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="empty_not_saved">Nome e pensamento não podem ser vazios.</string>
+</resources>
